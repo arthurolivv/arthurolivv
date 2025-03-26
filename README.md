@@ -17,8 +17,6 @@
 </div>
 
 ## Links
-
-[![Website](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=microsoft-outlook&logoColor=auto&color=1c1c24)](#) 
 [![CV](https://img.shields.io/badge/-CV-000?style=for-the-badge&logo=microsoft-outlook&logoColor=auto&color=1c1c24)](#) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=auto&color=1c1c24)](https://www.linkedin.com/in/arthur-santos-3737b8261/) 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=auto&color=1c1c24)](https://discord.com/channels/@art.hurr_/)
