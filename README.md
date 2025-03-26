@@ -2,7 +2,6 @@
 🇧🇷 Bacharelando em Sistemas de Informação pela [EACH - USP](https://www.each.usp.br/) 
 🇺🇸 Bachelor's Degree in Information Systems from [EACH - USP](https://www.each.usp.br/)  
  
-
 ## Skills
 <div align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=&color=1c1c24"/>
@@ -19,23 +18,22 @@
 
 ## Links
 <div align="left">
-  <a href="#" target="_blank" >
+  <a href="#" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=microsoft-outlook&logoColor=auto&color=1c1c24"/>
   </a>
-  <a href="#" target="_blank" >
+  <a href="#" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-CV-000?style=for-the-badge&logo=microsoft-outlook&logoColor=auto&color=1c1c24"/>
   </a>
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/arthur-santos-3737b8261/)" target="_blank" >
+  <a href="https://www.linkedin.com/in/arthur-santos-3737b8261/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=auto&color=1c1c24"/>
   </a>
-  <a href="https://discord.com/channels/@art.hurr_/" target="_blank" >
+  <a href="https://discord.com/channels/@art.hurr_/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=auto&color=1c1c24"/>
   </a>
 </div>
 
-
 ## Stats
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArthurJos04&theme=tokyonight&show_icons=true" style="display: inline-block;"/>
   <img src="https://streak-stats.demolab.com?user=ArthurJos04&theme=tokyonight&mode=weekly" style="display: inline-block;"/>
 </div>
