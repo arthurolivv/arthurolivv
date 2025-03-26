@@ -24,7 +24,4 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=auto&color=1c1c24)](https://discord.com/channels/@art.hurr_/)
 
 ## Stats
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArthurJos04&theme=tokyonight&show_icons=true" style="display: inline-block;"/>
-  <img src="https://streak-stats.demolab.com?user=ArthurJos04&theme=tokyonight&mode=weekly" style="display: inline-block;"/>
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=ArthurJos04&theme=tokyonight&mode=weekly)
