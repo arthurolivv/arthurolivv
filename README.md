@@ -2,7 +2,7 @@
 👨‍💻 Bacharelando em Sistemas de Informação pela [EACH - USP](https://www.each.usp.br/)  <br>
 🌐 Bachelor's Degree in Information Systems from [EACH - USP](https://www.each.usp.br/)
 
-## Skills
+## ⚙ Skills
 <div align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=&color=1c1c24"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=auto&color=1c1c24"/>
@@ -16,6 +16,6 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=auto&color=1c1c24"/>
 </div>
 
-## Stats
+## 📊 Github Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=ArthurJos04&theme=tokyonight&mode=weekly) <br>
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=auto&color=1c1c24)](https://discord.com/channels/@art.hurr_/)
