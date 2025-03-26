@@ -1,7 +1,7 @@
 # Arthur Santos
-![Brazil](https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/png100px/br.png) Bacharelando em Sistemas de Informação pela [EACH - USP](https://www.each.usp.br/)<br>
+![Brazil](https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/png100px/br.png) Bacharelando em Sistemas de Informação pela [EACH - USP](https://www.each.usp.br/) <br>
 ![USA](https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/png100px/us.png) Bachelor's Degree in Information Systems from [EACH - USP](https://www.each.usp.br/)
- 
+
 ## Skills
 <div align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=&color=1c1c24"/>
