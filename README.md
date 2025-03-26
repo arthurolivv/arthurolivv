@@ -17,5 +17,5 @@
 </div>
 
 ## Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=ArthurJos04&theme=tokyonight&mode=weekly)
+![GitHub Streak](https://streak-stats.demolab.com?user=ArthurJos04&theme=tokyonight&mode=weekly) <br>
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=auto&color=1c1c24)](https://discord.com/channels/@art.hurr_/)
