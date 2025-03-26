@@ -17,20 +17,10 @@
 </div>
 
 ## Links
-<div align="left">
-  <a href="#" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=microsoft-outlook&logoColor=auto&color=1c1c24"/>
-  </a>
-  <a href="#" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-CV-000?style=for-the-badge&logo=microsoft-outlook&logoColor=auto&color=1c1c24"/>
-  </a>
-  <a href="https://www.linkedin.com/in/arthur-santos-3737b8261/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=auto&color=1c1c24"/>
-  </a>
-  <a href="https://discord.com/channels/@art.hurr_/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=auto&color=1c1c24"/>
-  </a>
-</div>
+[![Website](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=microsoft-outlook&logoColor=auto&color=1c1c24)](#)  
+[![CV](https://img.shields.io/badge/-CV-000?style=for-the-badge&logo=microsoft-outlook&logoColor=auto&color=1c1c24)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=auto&color=1c1c24)](https://www.linkedin.com/in/arthur-santos-3737b8261/)  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=auto&color=1c1c24)](https://discord.com/channels/@art.hurr_/)
 
 ## Stats
 <div align="center">
