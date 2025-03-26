@@ -1,6 +1,6 @@
 # Arthur Santos
-🇧🇷 Bacharelando em Sistemas de Informação pela [EACH - USP](https://www.each.usp.br/)  <br>
-🇺🇸 Bachelor's Degree in Information Systems from [EACH - USP](https://www.each.usp.br/)
+👨‍💻 Bacharelando em Sistemas de Informação pela [EACH - USP](https://www.each.usp.br/)  <br>
+🌐 Bachelor's Degree in Information Systems from [EACH - USP](https://www.each.usp.br/)
 
 ## Skills
 <div align="left">
