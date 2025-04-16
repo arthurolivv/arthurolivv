@@ -1,21 +1,45 @@
-# Arthur Oliveira
-👨‍💻 Bacharelando em Sistemas de Informação pela [EACH - USP](https://www.each.usp.br/)  <br>
-🌐 Bachelor's Degree in Information Systems from [EACH - USP](https://www.each.usp.br/)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&size=36&duration=3000&pause=1000&color=fff&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Arthur!;Information+Systems+student+at+USP.)
 
-## ⚙ Skills
-<div align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=&color=1c1c24"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=auto&color=1c1c24"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=auto&color=1c1c24"/>
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=auto&color=1c1c24"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=auto&color=1c1c24"/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=auto&color=1c1c24"/>
-<img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=auto&color=1c1c24"/>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=auto&color=1c1c24"/>
-<img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=auto&color=1c1c24"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=auto&color=1c1c24"/>
+
+# 📖 What I'm up to
+
+👨‍💻 Bachelor's Degree in Information Systems from [EACH - USP](https://www.each.usp.br/)<br>
+✏️ Currently learning Object-Oriented Programming (OOP) and A.I. concepts
+
+<br>
+<br>
+
+<div align="center" style="display: inline_block">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AndroidStudio-Dark.svg" />
+  <br>
+  <br>
+  
 </div>
 
-## 📊 Github Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=ArthurJos04&theme=tokyonight&mode=weekly) <br>
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=auto&color=1c1c24)](https://discord.com/channels/@art.hurr_/)
+<div align="center">
+
+  [![Gmail](https://img.shields.io/badge/Gmail-0B131C?style=for-the-badge&logo=gmail&logoColor=D96725)](mailto:arthur04jos@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-0B131C?style=for-the-badge&logo=instagram&logoColor=D96725)](https://https://www.instagram.com/art.hurr_/)
+  [![Discord](https://img.shields.io/badge/Discord-0B131C?style=for-the-badge&logo=Discord&logoColor=D96725)](https://discord.gg/8kc8HqXVw2)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-0B131C?style=for-the-badge&logo=whatsapp&logoColor=D96725)](https://wa.me/11986883885)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0B131C?style=for-the-badge&logo=linkedin&logoColor=D96725)](https://www.linkedin.com/in/arthurolivv/)
+  
+</div>
+
+<div align="center">
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurolivv&theme=great_gatsby) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurolivv&theme=great_gatsby) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arthurolivv&theme=great_gatsby&utcOffset=8) |
+| :-: | :-: | :-: |
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurolivv&theme=great_gatsby) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurolivv&theme=vision-friendly-dark&show_icons=true) |
+| :-: | :-: |
+
+</div>
+  
