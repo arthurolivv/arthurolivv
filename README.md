@@ -34,11 +34,8 @@
 
 <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurolivv&theme=great_gatsby) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurolivv&theme=great_gatsby) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arthurolivv&theme=great_gatsby&utcOffset=8) |
-| :-: | :-: | :-: |
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurolivv&theme=vision-friendly-dark&show_icons=true) |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurolivv&theme=great_gatsby) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurolivv&theme=vision-friendly-dark&show_icons=true) |
-| :-: | :-: |
 
 </div>
   
