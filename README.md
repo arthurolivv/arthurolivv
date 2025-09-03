@@ -4,8 +4,6 @@
 # 📖 What I'm up to
 
 👨‍💻 Bachelor's Degree in Information Systems from [EACH - USP](https://www.each.usp.br/)<br>
-✏️ Currently learning Object-Oriented Programming (OOP) and A.I. concepts
-
 <br>
 <br>
 
