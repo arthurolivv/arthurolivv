@@ -25,7 +25,6 @@
 <div align="center">
 
   [![Gmail](https://img.shields.io/badge/Gmail-0B131C?style=for-the-badge&logo=gmail&logoColor=D96725)](mailto:arthur04jos@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-0B131C?style=for-the-badge&logo=instagram&logoColor=D96725)](https://https://www.instagram.com/art.hurr_/)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-0B131C?style=for-the-badge&logo=whatsapp&logoColor=D96725)](https://wa.me/5511986883885)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0B131C?style=for-the-badge&logo=linkedin&logoColor=D96725)](https://www.linkedin.com/in/arthurolivv/)
   <!--[![Discord](https://img.shields.io/badge/Discord-0B131C?style=for-the-badge&logo=Discord&logoColor=D96725)](https://discord.gg/8kc8HqXVw2)-->
