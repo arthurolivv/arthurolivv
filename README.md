@@ -1,4 +1,11 @@
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=arthurolivv&theme=tokyonight&headerStyle=mac&typingSpeed=150&hostname=github.com&commands=whoami%2Ceducation%2Clanguages%2Cneofetch&customCommands=%7B%22education%22%3A%22Bachelor%27s%20Degree%20in%20Information%20Systems%20-%20USP%22%7D)](https://github.com/arthurolivv)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&size=36&duration=3000&pause=1000&color=fff&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Arthur!;Information+Systems+student+at+USP.)
+
+
+# 📖 What I'm up to
+
+👨‍💻 Bachelor's Degree in Information Systems from [EACH - USP](https://www.each.usp.br/)<br>
+<br>
+<br>
 
 <div align="center" style="display: inline_block">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" />
@@ -27,6 +34,8 @@
 
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=22uvslphgj46jynhrnmi2bmvq&count=3&width=640&radius=22&time=0&progress=0&profile=footer-left&artist_color=77767b&meta_color=ff7800&accent_color=e66100&logo_color=e66100)
 
+
+  
 </div>
 
 
